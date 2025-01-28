@@ -1,9 +1,9 @@
 # My Favorite Movies
+# Link Git Hub pages
 
 ## Miembros
 
-- Carmen Blanco Delgado
-- Mihaela Gheorghiu 
+- Carmen Blanco Delgado 
 - Gustavo Ardaya Zubieta
 - Daniel Gallego López
 
